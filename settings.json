@@ -75,5 +75,16 @@
   "[javascriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
+    "workbench.colorCustomizations": {
+    "editor.background": "#111111", // Cor de fundo do editor
+    "sideBar.background": "#111111", // Cor de fundo da barra lateral
+    "activityBar.background": "#111111", // Cor de fundo da barra de atividades
+    "sideBar.foreground": "#b8b8b8", // Cor do texto na barra lateral
+    "editor.foreground": "#d8d8d8", // Cor do texto no editor
+    "tab.activeBackground": "#111111", // Cor de fundo da aba ativa
+    "tab.inactiveBackground": "#111111", // Cor de fundo das abas inativas
+    "statusBar.background": "#111111", // Cor de fundo da barra de status
+    "statusBar.foreground": "#c5c5c5" // Cor do texto na barra de status
+}
   
 }
