@@ -72,26 +72,30 @@
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "workbench.colorCustomizations": {
-    "editor.background": "#181818", // Cor de fundo do editor
-    "sideBar.background": "#181818", // Cor de fundo da barra lateral
-    "activityBar.background": "#181818", // Cor de fundo da barra de atividades
+    "editor.background": "#0f0f0f", // Cor de fundo do editor
+    "sideBar.background": "#0f0f0f", // Cor de fundo da barra lateral
+    "activityBar.background": "#0f0f0f", // Cor de fundo da barra de atividades
     "sideBar.foreground": "#b8b8b8", // Cor do texto na barra lateral
     "editor.foreground": "#d8d8d8", // Cor do texto no editor
-    "statusBar.background": "#181818", // Cor de fundo da barra de status
-    "statusBar.foreground": "#c5c5c5", // Cor do texto na barra de status
-    "titleBar.activeBackground": "#181818", // Cor de fundo da barra de título quando o VS Code está ativo
-    "titleBar.inactiveBackground": "#181818", // Cor de fundo da barra de título quando o VS Code está inativo
+    "statusBar.background": "#0f0f0f", // Cor de fundo da barra de status
+    "statusBar.foreground": "#ffffff", // Cor do texto na barra de status
+    "titleBar.activeBackground": "#0f0f0f", // Cor de fundo da barra de título quando o VS Code está ativo
+    "titleBar.inactiveBackground": "#0f0f0f", // Cor de fundo da barra de título quando o VS Code está inativo
     "titleBar.activeForeground": "#ffffff", // Cor do texto na barra de título quando o VS Code está ativo
-    "titleBar.inactiveForeground": "#181818", // Cor do texto na barra de título quando o VS Code está
-    "tab.activeBackground": "#000000",  // Cor de fundo da aba ativa
-    "tab.inactiveBackground": "#181818",  // Cor de fundo das abas inativas
+    "titleBar.inactiveForeground": "#e0d8d8", // Cor do texto na barra de título quando o VS Code está
+    "tab.activeBackground": "#0f0f0f",  // Cor de fundo da aba ativa
+    "tab.inactiveBackground": "#131313",  // Cor de fundo das abas inativas
     "tab.activeForeground": "#ffffff",  // Cor do texto na aba ativa
-    "tab.inactiveForeground": "#cccccc",  // Cor do texto nas abas inativas
-    "tab.hoverBackground": "#181818",  // Cor de fundo da aba quando o mouse passa sobre ela
-    "tab.unfocusedActiveBackground": "#181818",  // Cor de fundo da aba ativa quando a janela do VS Code não está focada
-    "tab.unfocusedInactiveBackground": "#181818",  // Cor de fundo das abas inativas quando a janela do VS Code não está focada
+    "tab.inactiveForeground": "#ffffff",  // Cor do texto nas abas inativas
+    "tab.hoverBackground": "#0f0f0f",  // Cor de fundo da aba quando o mouse passa sobre ela
+    "tab.unfocusedActiveBackground": "#0f0f0f",  // Cor de fundo da aba ativa quando a janela do VS Code não está focada
+    "tab.unfocusedInactiveBackground": "#0f0f0f",  // Cor de fundo das abas inativas quando a janela do VS Code não está focada
     "tab.unfocusedActiveForeground": "#ffffff",  // Cor do texto na aba ativa quando a janela do VS Code não está focada
-    "tab.unfocusedInactiveForeground": "#cccccc"  // Cor do texto nas abas inativas quando a janela do VS Code não está focada inativo
+    "tab.unfocusedInactiveForeground": "#0f0f0f",  // Cor do texto nas abas inativas quando a janela do VS Code não está focada inativo
+    "timeline.background": "#0f0f0f",
+    "editorGroupHeader.tabsBackground": "#0f0f0f",
+    "sideBarSectionHeader.background": "#131313",  // Cor de fundo
+    "sideBarSectionHeader.foreground": "#ffffff",
 },
 
 "editor.tokenColorCustomizations": {
