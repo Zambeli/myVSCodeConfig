@@ -101,7 +101,8 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#00e1ff" // Escolha a cor que deseja para os props
+                "foreground": "#00e1ff", // Escolha a cor que deseja para os props
+                "fontStyle": "bold underline"
             }
         },
         {
@@ -109,7 +110,7 @@
               "entity.name.function"
           ],
           "settings": {
-              "foreground": "#f7e434" // Escolha a cor que deseja para os nomes das funções
+              "foreground": "#00eec6" // Escolha a cor que deseja para os nomes das funções
           }
       },
       {
@@ -119,7 +120,7 @@
             "keyword.other"
         ],
         "settings": {
-            "foreground": "#63d1cc" // Escolha a cor que deseja para as palavras-chave
+            "foreground": "#7aeee8", // Escolha a cor que deseja para as palavras-chave
         }
     }
     ]
